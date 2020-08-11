@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.bodyimg{
+   
+    background-color: #f7f2f2;
+    
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+p{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+.origami{
+    position: relative;
+}
+
+
+a:link{
+    color:rgb(248, 0, 0);
+}
+
+a:visited{
+    color:rgb(248, 0, 0);
+}
+
+.origami:hover{
+    transform:scale(1.1) ;
+}
+
+
